@@ -1,0 +1,12 @@
+.main {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    background-color: #42a5f5;
+    grid-area: m;
+}
+
+.section {
+    padding: 10px;
+    margin: 5px;
+}

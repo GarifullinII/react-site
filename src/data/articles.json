@@ -1,0 +1,17 @@
+[
+  {
+    "title" : "Information",
+    "body" : "Information, in a general sense, is processed, organised and structured data. It provides context for data and enables decision making. For example, a single customer’s sale at a restaurant is data – this becomes information when the business is able to identify the most popular or least popular dish.[1]",
+    "href" : "https://en.wikipedia.org/wiki/Information"
+  },
+  {
+    "title" : "Information technology",
+    "body" : "Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of electronic data[1] and information. IT is typically used within the context of business operations as opposed to personal or entertainment technologies.[2] IT is considered to be a subset of information and communications technology (ICT). An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system – including all hardware, software, and peripheral equipment – operated by a limited group of IT users.",
+    "href" : "https://en.wikipedia.org/wiki/Information_technology"
+  },
+  {
+    "title" : "Information security",
+    "body" : "Information Security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management.[1] It typically involves preventing or reducing the probability of unauthorized/inappropriate access to data, or the unlawful use, disclosure, disruption, deletion, corruption, modification, inspection, recording, or devaluation of information.[2] It also involves actions intended to reduce the adverse impacts of such incidents. Protected information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge).[3][4] Information security's primary focus is the balanced protection of the confidentiality, integrity, and availability of data (also known as the CIA triad) while maintaining a focus on efficient policy implementation, all without hampering organization productivity.[5] ",
+    "href" : "https://en.wikipedia.org/wiki/Information_security"
+  }
+]

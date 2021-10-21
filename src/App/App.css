@@ -1,0 +1,15 @@
+* {
+    font-family: "Open Sans", sans-serif;
+    color: #212121;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas:
+                "h h h"
+                "m m s"
+                "f f f";
+    grid-gap: 10px;
+}
